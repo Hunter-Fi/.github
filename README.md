@@ -39,7 +39,7 @@
 <h3>🌐 Connect With Us</h3>
 
 <div align="left">
-  <a href="https://x.com/baluw33547921" target="_blank">
+  <a href="https://x.com/Hunters_finance" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
