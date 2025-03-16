@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Hunters.Finance</h1>
+  <h1>🚀 HuntersFi</h1>
   <h3>Decentralized AI-Powered Quantitative Trading on Internet Computer</h3>
   <p><i>Secure • Transparent • Efficient</i></p>
 
@@ -42,6 +42,8 @@
   <a href="https://x.com/Hunters_finance" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+
+[//]: # (  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />)
+
+[//]: # (  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />)
 </div>
