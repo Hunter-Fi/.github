@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 HuntersFi</h1>
+  <h1>🚀 HunterFi</h1>
   <h3>Decentralized AI-Powered Quantitative Trading on Internet Computer</h3>
   <p><i>Secure • Transparent • Efficient</i></p>
 
